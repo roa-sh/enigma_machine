@@ -1,2 +1,2 @@
 # enigma_machine
-Enigma machine buidl-up.
+Enigma machine build-up.
